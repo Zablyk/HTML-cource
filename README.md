@@ -1,1 +1,1 @@
-# HTML-cource
+In this crash course I will cram as much about HTML that I can. We will be creating a cheat sheet with all of the common HTML5 tags, attributes, semantic markup, etc. We will not be focusing on CSS in this cource
